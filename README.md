@@ -1,3 +1,3 @@
-#3D Voxel Snake game.
+# 3D Voxel Snake game.
 
-This game is made with visual studio programming in C++. 
+A 3D Voxel Snake is a simple game where user controls the snake and take the red square (randomly generated) and survive as long as possible without being hit by the walls. The snake is become longer every time it devours the red squares. The game is made in C++
